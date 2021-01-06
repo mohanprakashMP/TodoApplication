@@ -26,15 +26,15 @@ The model part contains database related class such as DAO, Task Model, Task Dat
 ![](MVVM.png)
 
 # Getting Start
-<img src = "/image/m.PNG" width="200" height="360"><img src = "/image/m1.PNG" width="200" height="360">
+<img src = "/image/m.PNG" width="200" height="360">       <img src = "/image/m1.PNG" width="200" height="360">
 
-<img src = "/image/m2.PNG" width="200" height="360"><img src = "/image/m3.PNG" width="200" height="360">
+<img src = "/image/m2.PNG" width="200" height="360">      <img src = "/image/m3.PNG" width="200" height="360">
 
-<img src = "/image/m4.PNG" width="200" height="360"><img src = "/image/m5.PNG" width="200" height="360">
+<img src = "/image/m4.PNG" width="200" height="360">      <img src = "/image/m5.PNG" width="200" height="360">
 
-<img src = "/image/m6.PNG" width="200" height="360"><img src = "/image/m7.PNG" width="200" height="360">
+<img src = "/image/m6.PNG" width="200" height="360">      <img src = "/image/m7.PNG" width="200" height="360">
 
-<img src = "/image/m8.PNG" width="200" height="360"><img src = "/image/m9.PNG" width="200" height="360">
+<img src = "/image/m8.PNG" width="200" height="360">      <img src = "/image/m9.PNG" width="200" height="360">
 
 
 ## License
