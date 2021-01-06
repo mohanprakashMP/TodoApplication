@@ -45,11 +45,7 @@ public class AddEditTaskActivity extends AppCompatActivity{
     public static final String EXTRA_PRIORITY =
             "package com.example.mytodoapp.EXTRA_PRIORITY";
 
-    // Constant for date format
-   // private static final String DATE_FORMAT = "dd/MM/yyy";
-    // Date formatter
-   // @SuppressLint("SimpleDateFormat")
-   // private SimpleDateFormat dateFormat = new SimpleDateFormat(DATE_FORMAT);
+
 
     private EditText editTextTitle;
     private NumberPicker numberPickerPriority;
