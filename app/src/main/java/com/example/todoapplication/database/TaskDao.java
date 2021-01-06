@@ -1,12 +1,10 @@
-package com.example.mytodoapp.database;
+package com.example.todoapplication.database;
 import androidx.lifecycle.LiveData;
 import androidx.room.Dao;
 import androidx.room.Delete;
 import androidx.room.Insert;
 import androidx.room.Query;
 import androidx.room.Update;
-
-import com.example.mytodoapp.database.Task;
 
 import java.util.List;
 

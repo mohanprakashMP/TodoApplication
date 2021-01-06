@@ -1,4 +1,4 @@
-package com.example.mytodoapp.database;
+package com.example.todoapplication.database;
 import android.content.Context;
 import android.util.Log;
 

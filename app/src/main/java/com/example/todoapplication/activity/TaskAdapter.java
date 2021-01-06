@@ -1,4 +1,4 @@
-package com.example.mytodoapp.activity;
+package com.example.todoapplication.activity;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -12,8 +12,8 @@ import androidx.recyclerview.widget.DiffUtil;
 import androidx.recyclerview.widget.ListAdapter;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.mytodoapp.R;
-import com.example.mytodoapp.database.Task;
+import com.example.todoapplication.R;
+import com.example.todoapplication.database.Task;
 
 public class TaskAdapter extends ListAdapter<Task, TaskAdapter.TaskHolder> {
     private OnItemClickListener listener;

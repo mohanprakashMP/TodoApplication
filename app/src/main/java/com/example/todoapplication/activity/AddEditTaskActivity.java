@@ -1,4 +1,4 @@
-package com.example.mytodoapp.activity;
+package com.example.todoapplication.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -22,8 +22,8 @@ import android.widget.NumberPicker;
 import android.widget.TimePicker;
 import android.widget.Toast;
 
-import com.example.mytodoapp.utility.AlarmBroadcast;
-import com.example.mytodoapp.R;
+import com.example.todoapplication.utility.AlarmBroadcast;
+import com.example.todoapplication.R;
 
 import java.text.DateFormat;
 import java.text.ParseException;
@@ -56,7 +56,7 @@ public class AddEditTaskActivity extends AppCompatActivity{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.addedit_task_detail);
+        setContentView(R.layout.addedit_task);
 
         editTextTitle = findViewById(R.id.title_id);
         date_in = findViewById(R.id.date_task);

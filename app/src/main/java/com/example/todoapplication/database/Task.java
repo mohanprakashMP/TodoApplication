@@ -1,10 +1,8 @@
-package com.example.mytodoapp.database;
+package com.example.todoapplication.database;
 
 import androidx.room.ColumnInfo;
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
-
-import java.util.Date;
 
 @Entity(tableName = "task_table")
 public class Task {

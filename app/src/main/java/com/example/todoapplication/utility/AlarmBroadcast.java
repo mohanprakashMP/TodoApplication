@@ -1,4 +1,4 @@
-package com.example.mytodoapp.utility;
+package com.example.todoapplication.utility;
 
 import android.app.Notification;
 import android.app.NotificationChannel;
@@ -13,8 +13,7 @@ import android.widget.RemoteViews;
 
 import androidx.core.app.NotificationCompat;
 
-import com.example.mytodoapp.R;
-import com.example.mytodoapp.utility.NotificationMessage;
+import com.example.todoapplication.R;
 
 public class AlarmBroadcast extends BroadcastReceiver {
     @Override

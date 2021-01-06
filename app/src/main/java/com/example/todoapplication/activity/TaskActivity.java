@@ -1,4 +1,4 @@
-package com.example.mytodoapp.activity;
+package com.example.todoapplication.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.app.Fragment;
@@ -7,7 +7,7 @@ import android.app.FragmentTransaction;
 
 import android.os.Bundle;
 
-import com.example.mytodoapp.R;
+import com.example.todoapplication.R;
 
 
 public class TaskActivity extends AppCompatActivity {

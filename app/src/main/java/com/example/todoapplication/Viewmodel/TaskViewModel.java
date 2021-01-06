@@ -1,4 +1,4 @@
-package com.example.mytodoapp.Viewmodel;
+package com.example.todoapplication.Viewmodel;
 
 import android.app.Application;
 
@@ -6,8 +6,8 @@ import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
 
-import com.example.mytodoapp.database.Task;
-import com.example.mytodoapp.database.TaskRepository;
+import com.example.todoapplication.database.Task;
+import com.example.todoapplication.database.TaskRepository;
 
 import java.util.List;
 

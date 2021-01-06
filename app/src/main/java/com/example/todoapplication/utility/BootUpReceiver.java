@@ -1,11 +1,11 @@
-package com.example.mytodoapp.utility;
+package com.example.todoapplication.utility;
 
 import android.annotation.SuppressLint;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 
-import com.example.mytodoapp.activity.TaskActivity;
+import com.example.todoapplication.activity.TaskActivity;
 
 public class BootUpReceiver extends BroadcastReceiver {
     @SuppressLint("UnsafeProtectedBroadcastReceiver")

@@ -1,4 +1,4 @@
-package com.example.mytodoapp.activity;
+package com.example.todoapplication.activity;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
@@ -24,9 +24,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
-import com.example.mytodoapp.R;
-import com.example.mytodoapp.Viewmodel.TaskViewModel;
-import com.example.mytodoapp.database.Task;
+import com.example.todoapplication.R;
+import com.example.todoapplication.Viewmodel.TaskViewModel;
+import com.example.todoapplication.database.Task;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.util.List;
