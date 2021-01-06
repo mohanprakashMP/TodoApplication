@@ -23,7 +23,7 @@ Here is a typical high-level MVVM app architecture:
  
 The model part contains database related class such as DAO, Task Model, Task Database class. The repository class is also related with model but it is the class that helps communicating between Model and View Model class. The viewmodel class provides live data to the View part or UI which basically include activity or fragments.
 
-<img src="Screenshot/MVVM.png" width="360" height="360">
+![](MVVM.png)
 
 # Getting Started
 
